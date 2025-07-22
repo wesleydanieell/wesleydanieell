@@ -22,6 +22,8 @@ Feel free to check out what I’ve been working on and stay connected!
   <img align="center" alt="Wesley-Github" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
   <img align="center" alt="Wesley-Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" >
   <img align="center" alt="Wesley-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Wesley-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Wesley-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </div>
 
 ---
