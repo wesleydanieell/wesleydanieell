@@ -5,8 +5,7 @@ I'm a backend and mobile developer currently focused on building robust applicat
 I'm actively learning and applying best practices in backend architecture, API design, and Android development.  
 Always improving my knowledge in software security, clean code, and project structure.
 
-You’ll usually find me working on prototypes and internal tools as I level up and prepare for freelance work.  
-Due to project sensitivity and incomplete security layers (such as missing encryption or lack of environment variable handling), some repositories are currently private — but stay tuned.
+You’ll usually find me working on prototypes and internal tools as I level up and prepare for freelance work.
 
 Feel free to check out what I’ve been working on and stay connected!
 
