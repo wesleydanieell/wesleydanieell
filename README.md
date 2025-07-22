@@ -32,7 +32,7 @@ Feel free to check out what I’ve been working on and stay connected!
 - **Backend:** Spring Boot, REST APIs  
 - **Mobile:** Android SDK, Jetpack, XML layouts  
 - **Tools:** Git, Gradle, Android Studio, IntelliJ IDEA  
-- **Learning:** JWT, OAuth2, secure environment config, Firebase
+- **Learning:** Network Security, Architectural Patterns, Design Patterns
 
 ---
 
