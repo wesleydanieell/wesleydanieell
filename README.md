@@ -11,7 +11,7 @@ Feel free to check out what I’ve been working on and stay connected!
 
 ---
 
-### 🔧 Active Tech Stack
+### Active Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wesley-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
